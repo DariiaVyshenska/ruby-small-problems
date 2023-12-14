@@ -1,1 +1,1 @@
-# LaunchSchool_Ruby_intro
+Ruby solutions to small problems exercises  
